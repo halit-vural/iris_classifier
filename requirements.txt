@@ -1,2 +1,2 @@
 streamlit
-xgboost==2.0.3
+xgboost==5.0.3
